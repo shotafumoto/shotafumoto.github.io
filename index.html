@@ -44,6 +44,15 @@
     overflow: hidden;
   }
 
+
+  /* 画像保護 */
+  img {
+    pointer-events: none;
+    user-select: none;
+    -webkit-user-select: none;
+    -webkit-user-drag: none;
+  }
+
   /* Custom cursor */
   .cursor {
     position: fixed;
@@ -412,77 +421,77 @@
 
   <!-- Slide 01 — 煙・フード・赤 (shota_0001) -->
   <div class="slide active" data-section="Portrait" data-index="1">
-    <img src="shota_0001.jpg" alt="" loading="eager">
+    <img src="shota_0001.jpg" alt="Fashion editorial portrait by Shota Fumoto 麓翔太 — smoke and dramatic lighting, commercial photographer Tbilisi Georgia" loading="eager">
   </div>
 
   <!-- Slide 02 — 金髪・車のドア (shota_0004) -->
   <div class="slide" data-section="Portrait" data-index="2">
-    <img src="shota_0004.jpg" alt="" loading="lazy">
+    <img src="shota_0004.jpg" alt="Portrait photography by Shota Fumoto 麓翔太 — blonde model, fashion editorial Tokyo Japan" loading="lazy">
   </div>
 
   <!-- Slide 03 — モノクロ・髪が顔 (shota_0016) -->
   <div class="slide" data-section="Portrait" data-index="3">
-    <img src="shota_0016.jpg" alt="" loading="lazy">
+    <img src="shota_0016.jpg" alt="Black and white portrait by Shota Fumoto 麓翔太 — studio lighting, Japanese commercial photographer" loading="lazy">
   </div>
 
   <!-- Slide 04 — ブルー背景・手が口元 (shota_0017) -->
   <div class="slide" data-section="Portrait" data-index="4">
-    <img src="shota_0017.jpg" alt="" loading="lazy">
+    <img src="shota_0017.jpg" alt="Studio portrait photography by Shota Fumoto 麓翔太 — editorial lighting, available for assignments worldwide" loading="lazy">
   </div>
 
   <!-- Slide 05 — 曲面ガラス階段 (shota_0033) -->
   <div class="slide" data-section="Architecture" data-index="5">
-    <img src="shota_0033.jpg" alt="" loading="lazy">
+    <img src="shota_0033.jpg" alt="Architectural interior photography by Shota Fumoto 麓翔太 — curved glass staircase, Japanese architect photography Tbilisi" loading="lazy">
   </div>
 
   <!-- Slide 06 — 廊下・窓・桜・光 (shota_0039) -->
   <div class="slide" data-section="Architecture" data-index="6">
-    <img src="shota_0039.jpg" alt="" loading="lazy">
+    <img src="shota_0039.jpg" alt="Interior architectural photography by Shota Fumoto 麓翔太 — natural light corridor cherry blossom, building photography Japan" loading="lazy">
   </div>
 
   <!-- Slide 07 — ヴェール・スタジオ (shota_0030) -->
   <div class="slide" data-section="Portrait" data-index="7">
-    <img src="shota_0030.jpg" alt="" loading="lazy">
+    <img src="shota_0030.jpg" alt="Fashion editorial portrait by Shota Fumoto 麓翔太 — veil studio lighting, commercial photography Japan Georgia" loading="lazy">
   </div>
 
   <!-- Slide 08 — レザー・仰向け (shota_0025) -->
   <div class="slide" data-section="Portrait" data-index="8">
-    <img src="shota_0025.jpg" alt="" loading="lazy">
+    <img src="shota_0025.jpg" alt="Fashion portrait photography by Shota Fumoto 麓翔太 — leather jacket editorial, Japanese photographer Europe" loading="lazy">
   </div>
 
   <!-- Slide 09 — 階段・コンクリート (shota_0041) -->
   <div class="slide" data-section="Architecture" data-index="9">
-    <img src="shota_0041.jpg" alt="" loading="lazy">
+    <img src="shota_0041.jpg" alt="Architectural interior photography by Shota Fumoto 麓翔太 — concrete glass staircase, building photography Tbilisi Georgia" loading="lazy">
   </div>
 
   <!-- Slide 10 — レザー・見下ろし (shota_0026) -->
   <div class="slide" data-section="Portrait" data-index="10">
-    <img src="shota_0026.jpg" alt="" loading="lazy">
+    <img src="shota_0026.jpg" alt="Editorial portrait by Shota Fumoto 麓翔太 — dramatic natural light fashion photography Japan" loading="lazy">
   </div>
 
   <!-- Slide 11 — スローシャッター (shota_0008) -->
   <div class="slide" data-section="Portrait" data-index="11">
-    <img src="shota_0008.jpg" alt="" loading="lazy">
+    <img src="shota_0008.jpg" alt="Documentary portrait by Shota Fumoto 麓翔太 — slow shutter expressive photography, Japanese documentary photographer" loading="lazy">
   </div>
 
   <!-- Slide 12 — 桜・窓・テーブル (shota_0038) -->
   <div class="slide" data-section="Architecture" data-index="12">
-    <img src="shota_0038.jpg" alt="" loading="lazy">
+    <img src="shota_0038.jpg" alt="Architectural interior photography by Shota Fumoto 麓翔太 — cherry blossom window light, interior photography Japan" loading="lazy">
   </div>
 
   <!-- Slide 13 — 黒ドレス・横顔 (shota_0014) -->
   <div class="slide" data-section="Portrait" data-index="13">
-    <img src="shota_0014.jpg" alt="" loading="lazy">
+    <img src="shota_0014.jpg" alt="Fashion portrait by Shota Fumoto 麓翔太 — black dress studio editorial, commercial photographer Japan Tbilisi" loading="lazy">
   </div>
 
   <!-- Slide 14 — モノクロ・ベッド (shota_0010) -->
   <div class="slide" data-section="Portrait" data-index="14">
-    <img src="shota_0010.jpg" alt="" loading="lazy">
+    <img src="shota_0010.jpg" alt="Documentary portrait by Shota Fumoto 麓翔太 — black and white natural light, portrait photographer Georgia" loading="lazy">
   </div>
 
   <!-- Slide 15 — 階段・コンクリート・ガラス (shota_0040) -->
   <div class="slide" data-section="Architecture" data-index="15">
-    <img src="shota_0040.jpg" alt="" loading="lazy">
+    <img src="shota_0040.jpg" alt="Architectural photography by Shota Fumoto 麓翔太 — concrete glass interior staircase, Japanese architect photography" loading="lazy">
   </div>
 
 </div>
@@ -550,6 +559,18 @@
 </div>
 
 <script>
+
+  // 右クリック禁止
+  document.addEventListener('contextmenu', e => e.preventDefault());
+  // ドラッグ禁止
+  document.addEventListener('dragstart', e => e.preventDefault());
+  // キーボードショートカット禁止
+  document.addEventListener('keydown', e => {
+    if ((e.ctrlKey || e.metaKey) && (e.key === 's' || e.key === 'u')) {
+      e.preventDefault();
+    }
+  });
+
   // Cursor
   const cursor = document.getElementById('cursor');
   document.addEventListener('mousemove', e => {
