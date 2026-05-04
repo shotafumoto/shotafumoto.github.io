@@ -1,0 +1,94 @@
+必要画像ファイル一覧 — 全56枚
+==========================================
+
+このフォルダに以下のファイル名で写真を配置してください。
+ファイル名はAdobe Bridgeコンタクトシートのキャプションと完全一致させてください。
+
+
+【Architecture / Bunkyo建築 — 8枚】
+  arch_0001.jpg     ドラマチックな天井
+  arch_0003.jpg     床の光のストライプ
+  arch_0008.jpg     桜と回廊
+  arch_0017.jpg     湾曲ガラス階段
+  arch_0021.jpg     アトリウム
+  arch_0024.jpg     ライブラリー
+  arch_0028.jpg     桜の窓
+  arch_0036.jpg     桜と廊下
+
+【Bunkyo School ポートレート — 5枚】
+  commerce_0001.jpg 男子生徒、振り返り(屋上柵、空背景)
+  commerce_0008.jpg 後ろ姿の女子生徒群像、シルエット
+  commerce_0011.jpg 青空シルエット ★パンフレット表紙級
+  commerce_0019.jpg 女子生徒、横顔、街並み背景
+  commerce_0025.jpg 完成パンフレット表紙(物撮り)
+
+【Documentary / Portrait — 21枚】
+  doc_0008.jpg      B&W馬の厩、ストリート/ドキュメント
+  doc_0010.jpg      自然光B&W、現サイト掲載
+  doc_0011.jpg      子供と車のおもちゃ、生活感
+  doc_0030.jpg      海辺の男性、引きの構図
+  doc_0096.jpg      夕日の少女、笑顔
+  doc_0136.jpg      列車内、東欧
+  doc_0142.jpg      夕暮れの男性、harbor
+  doc_0207.jpg      年配男性、東欧
+  doc_0210.jpg      夜の街灯下、男性ポートレート
+  doc_0233.jpg      B&W女性、手で顔を隠す抽象
+  doc_0260.jpg      茶色のドレス、絵画的、垂直構図
+  doc_0317.jpg      若い男性、東欧、目の力
+  doc_0381.jpg      画家の制作風景、ドローイング
+  doc_0410.jpg      B&Wアーティスト、横顔
+  doc_0432.jpg      B&W窓辺、画家
+  doc_0463.jpg      屋外、彫像前で素描
+  doc_0473.jpg      川辺で振り返る画家、カラー
+  doc_0489.jpg      B&W画家、川辺、考え込む横顔
+  doc_0492.jpg      B&W手元クローズアップ、ペンと紙
+  doc_0526.jpg      横顔B&W、ボリュームのある髪
+  doc_0769.jpg      B&W煙草の男性、ストリート ★最強カット
+
+【Fashion editorial gallery — 10枚】
+  fash_0001.jpg     中華系美学、編集ポートレート
+  fash_0218.jpg     赤背景、黒トップス
+  fash_0233.jpg     赤い花、シュルレアル
+  fash_0254.jpg     B&Wクローズ、ハードライト、河岸
+  fash_0269.jpg     夕焼け黄ドレス
+  fash_0298.jpg     帽子と羽根、思索的
+  fash_0306.jpg     B&Wブーケ
+  fash_0312.jpg     B&W顔の影、ハイコントラスト
+  fash_0317.jpg     革ジャケット、サンフレア、ストリート
+  fash_0335.jpg     メッシュベール、構成的
+
+【DAMAGED Tokyo Project — 11枚】
+  fash_0006.jpg     ★ヒーロー: 群像、渋谷夜景
+  fash_0011.jpg     後ろ姿、街並み、動感
+  fash_0016.jpg     夜景の単独人物、モーション
+  fash_0029.jpg     B&W、白い帽子、後ろ姿のロゴ
+  fash_0049.jpg     2人組、シャッター背景
+  fash_0086.jpg     2人がボンネットに座る、ヘッドライト
+  fash_0148.jpg     集合シーン、複数モデル
+  fash_0150.jpg     複数モデル、ストロボ
+  fash_0192.jpg     車窓のサングラス、女性
+  fash_0195.jpg     フード、横顔、内装
+  fash_0202.jpg     車内ペア、赤い革のシート
+
+【About — 1枚】
+  about-portrait.jpg ← 自分自身のポートレート
+
+
+==========================================
+合計枚数:
+  arch_     :  8 枚
+  commerce_ :  5 枚
+  doc_      : 21 枚
+  fash_     : 21 枚 (Fashion gallery 10 + DAMAGED Tokyo 11)
+  about     :  1 枚
+  ───────────────────
+  合計      : 56 枚
+
+最適化推奨設定:
+  長辺 1800px / JPG 80% / sRGB / GPS情報削除
+
+書き出し時の注意:
+  Lightroom: メタデータ → 「著作権のみ」を選択
+  Capture One: メタデータ → Creator/Copyright のみ含める
+  → GPS位置情報を含めると撮影地が公開され被写体のプライバシーリスクになる
+==========================================
