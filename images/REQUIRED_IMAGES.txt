@@ -1,0 +1,36 @@
+必要画像 — 全20枚をこのフォルダに配置
+==========================================
+
+【旧サイトから継承 — そのまま使える(15枚)】
+  shota_0001.jpg
+  shota_0004.jpg
+  shota_0008.jpg
+  shota_0010.jpg
+  shota_0014.jpg
+  shota_0016.jpg
+  shota_0017.jpg
+  shota_0025.jpg
+  shota_0026.jpg
+  shota_0030.jpg
+  shota_0033.jpg
+  shota_0038.jpg
+  shota_0039.jpg
+  shota_0040.jpg
+  shota_0041.jpg
+
+【新規追加 — 5枚】
+  doc_0008.jpg       B&W馬の厩、スローシャッター
+  doc_0489.jpg       B&W画家川辺、考え込む横顔
+  doc_0769.jpg       B&W煙草の男性、ストリート
+  fash_0029.jpg      DAMAGED Tokyo B&W白帽子
+  commerce_0011.jpg  Bunkyo校、青空生徒シルエット
+
+==========================================
+合計: 20枚
+書き出し: 長辺 1800px / JPG 80% / sRGB / GPS情報削除
+==========================================
+
+注意:
+旧サイトでは shota_*.jpg がリポジトリ ルート直下にあった。
+今回の構成では images/ フォルダ内を参照する。
+README.md セクション3-C を必ず読むこと。
