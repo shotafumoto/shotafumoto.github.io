@@ -301,6 +301,19 @@ button { background: none; border: 0; padding: 0; cursor: pointer; color: inheri
   color: var(--fg-muted);
 }
 
+/* Works modal */
+.modal-inner--works {
+  max-width: 620px;
+}
+
+.modal-body .pubinfo {
+  margin-top: 3rem;
+  font-size: 0.8125rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--fg-muted);
+}
+
 /* ---------------------------------------------------------
    ACCESSIBILITY
    --------------------------------------------------------- */
